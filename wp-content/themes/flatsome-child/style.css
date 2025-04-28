@@ -1,0 +1,24 @@
+/*
+Theme Name: Flatsome Child
+Description: This is a child theme for Flatsome Theme
+Author: UX Themes
+Template: flatsome
+Version: 3.0
+*/
+
+@font-face {
+  font-family: "UTM Avo";
+  src: url("./fonts/UTM Avo.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "UTM Avo Bold";
+  src: url("./fonts/UTM AvoBold.woff") format("woff");
+  font-weight: bold;
+  font-style: normal;
+}
+body {
+  font-family: "UTM Avo", sans-serif;
+}
